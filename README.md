@@ -77,6 +77,53 @@ Second version:
 
 ![Изображение WhatsApp 2023-06-01 в 14 33 32](https://github.com/Nemo-37/RobotChallenge/assets/128605523/645e27a6-cdf1-4334-ad1e-7f151489d4b4)
 
+ # Micromouse
+
+Micromouse is a competitive robot designed to compete in autonomous maze-solving competitions. The robot must independently find its way from the starting point to the goal, avoiding obstacles and dead ends.
+
+Here are some basic aspects that I know about Micromouse robots:
+
+- History: The concept of Micromouse robots originated in the 1970s. The first Micromouse competition took place in Japan in 1979, and it became a popular event among students and robotics enthusiasts.
+
+- Goal: The goal of Micromouse's main stream is to create a robot that can navigate complex mazes, avoiding obstacles and avoiding dead ends. The robot must find the path as quickly as possible.
+
+- Autonomy: Micromouse robots operate completely autonomously. This means that they must be able to make decisions based on sensor inputs and adjust accordingly without human intervention at the first moment in time.
+
+- Technical aspects: Micro mouse robots are usually equipped with various sensors such as infrared distance sensors, gyroscopes, accelerometers, etc. They use this data to measure position in the maze and make movement decisions.
+
+- Algorithms and Programming: To achieve optimal results in Micromouse competitions, robots must be programmed using complex path finding and motion control algorithms. The art is to find a balance between speed and efficiency in choosing a path.
+
+- Competitions: Micromouse competitions are held at various levels, from school events to international evenings. They involve teams of students and engineers demonstrating their skills in robotics and programming.
+
+- Mazes: Mazes used in competitions can have different structures and sizes. Some mazes can be very confusing and maintain different patterns.
+
+- Development: The Micromouse competition aims to develop skills in robotics, programming, engineering and algorithmic thinking among students and enthusiasts. They also facilitate the exchange of experiences and ideas between participants.
+
+
+![Image](https://user-images.githubusercontent.com/128605523/268325866-6b1c18fb-608c-4a0f-b35b-8c4ff9913ef2.jpg)
+
+
+
+![Image](https://user-images.githubusercontent.com/128605523/268325886-384fd0a6-002a-4d5d-ac5e-560eb50491a3.jpg)
+
+
+
+![Image](https://user-images.githubusercontent.com/128605523/268325922-897b48ce-aa65-4061-956a-98a9ee2e4b9f.jpg)
+
+
+
+
+
+![Image](https://user-images.githubusercontent.com/128605523/268326085-cca6788a-7755-401d-b521-b8709ed3c9a4.jpg)
+
+
+
+
+
+
+
+
+
 ![Изображение WhatsApp 2023-09-15 в 19 49 27](https://github.com/Nemo-37/RobotChallenge/assets/128605523/7cdad019-d617-48ae-a99f-e907aa5d772b)
 
 
